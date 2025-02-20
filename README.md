@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Daniel Marques</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🤖 Stats</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
